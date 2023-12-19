@@ -1,0 +1,78 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "firstnName": "",
+      "lastName": "Hasan",
+      "email": "zobairhasan1122@gmail.com",
+      "dob": "2023-12-10T18:00:00.000Z",
+      "education": "graduate",
+      "company": "asdasd",
+      "experience": 123,
+      "package": 12,
+      "id": 2
+    },
+    {
+      "firstnName": "",
+      "lastName": "Hasan",
+      "email": "zobairhasan1122@gmail.com",
+      "dob": "2023-12-02T18:00:00.000Z",
+      "education": "graduate",
+      "company": "asdsad",
+      "experience": 1,
+      "package": 1,
+      "id": 3
+    },
+    {
+      "firstName": "Abu Saker Mohammed Zobair",
+      "lastName": "Hasan",
+      "email": "zobairhasan1122@gmail.com",
+      "dob": "2023-12-03T18:00:00.000Z",
+      "education": "Matric",
+      "company": "sdasd",
+      "experience": 1,
+      "package": 1,
+      "id": 4
+    },
+    {
+      "firstName": "Abu Saker Mohammed Zobair",
+      "lastName": "Hasan",
+      "email": "zobairhasan1122@gmail.com",
+      "dob": "2023-12-06T18:00:00.000Z",
+      "education": "Matric",
+      "company": "asdasd",
+      "experience": 1,
+      "package": 1,
+      "gender": "male",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Abu Saker Mohammed Zobair",
+      "lastName": "Hasan",
+      "email": "zobairhasan1122@gmail.com",
+      "dob": "2023-12-12T18:00:00.000Z",
+      "education": "graduate",
+      "company": "",
+      "experience": "",
+      "package": "",
+      "gender": "male",
+      "id": 1
+    }
+  ]
+}
